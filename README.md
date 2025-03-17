@@ -7,7 +7,7 @@ A comprehensive church management system built with PHP, HTML, and CSS. This sys
 - **Member Management**: Add, edit, view, and delete church members
 - **Event Management**: Schedule and manage church events
 - **Donation Tracking**: Record and track donations
-- **Reporting**: Generate reports on members, donations, and events
+- **Reporting**: Generate reports on members
 - **User Authentication**: Secure login system
 - **Responsive Design**: Works on desktop and mobile devices
 
